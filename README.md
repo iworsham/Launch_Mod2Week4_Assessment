@@ -75,7 +75,7 @@ Using OOP to convert data between a realtional database, for ex. SQL
 
 ## Exercise (5 points possible)
 
-Fork the Replit below, and complete the 5 LINQ exercises.  Add a link to your forked repl here: [<YOUR LINK HERE>](https://replit.com/@IsiahWorsham/Mod2Week4Assessment#main.cs)
+Fork the Replit below, and complete the 5 LINQ exercises.  Add a link to your forked repl here: [<YOUR LINK HERE>][https://replit.com/@IsiahWorsham/Mod2Week4Assessment#main.cs]
 
 [https://replit.com/@launch-team/Mod2Week4Assessment](https://replit.com/@launch-team/Mod2Week4Assessment?v=1)
 
